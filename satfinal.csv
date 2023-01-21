@@ -1,0 +1,986 @@
+INSTNM,SAT25,SAT75
+Alabama A & M University,840,1030
+University of Alabama at Birmingham,1173,1388
+University of Alabama in Huntsville,1170,1420
+Alabama State University,839,1050
+The University of Alabama,1070,1370
+Auburn University at Montgomery,950,1160
+Birmingham-Southern College,1090,1240
+Faulkner University,990,1205
+Huntingdon College,980,1070
+Jacksonville State University,1010,1240
+University of West Alabama,880,980
+Marion Military Institute,1100,1300
+University of Montevallo,970,1200
+Samford University,1100,1290
+University of South Alabama,985,1215
+Spring Hill College,970,1060
+Troy University,935,1150
+Tuskegee University,920,1130
+University of Alaska Fairbanks,1110,1360
+University of Arizona,1120,1370
+Embry-Riddle Aeronautical University-Prescott,1140,1350
+Arizona Christian University,960,1170
+University of Arkansas at Little Rock,1020,1180
+Lyon College,1050,1195
+University of Arkansas,1050,1220
+University of Arkansas at Pine Bluff,810,1016
+Arkansas State University,1030,1200
+University of Central Arkansas,980,1160
+Central Baptist College,903,1136
+Harding University,1050,1300
+Henderson State University,978,1151
+Hendrix College,1090,1340
+John Brown University,1100,1320
+University of the Ozarks,950,1130
+Williams Baptist University,835,1110
+Southern Arkansas University Main  ,930,1140
+Azusa Pacific University,966,1266
+Biola University,1103,1348
+California Lutheran University,1090,1290
+Chapman University,1210,1410
+Concordia University-Irvine,1030,1260
+Claremont McKenna College,1420,1530
+Dominican University of California,1063,1275
+Fresno Pacific University,970,1240
+Harvey Mudd College,1480,1560
+University of La Verne,905,1135
+La Sierra University,880,1140
+Loyola Marymount University,1250,1420
+Mills College,1378,1413
+Occidental College,1340,1490
+Otis College of Art and Design,1130,1360
+Hope International University,1000,1180
+University of the Pacific,1120,1380
+Pepperdine University,1260,1440
+Point Loma Nazarene University,1170,1350
+Pomona College,1470,1570
+University of Redlands,1110,1280
+University of San Francisco,1190,1390
+Santa Clara University,1330,1490
+Scripps College,1380,1520
+Vanguard University of Southern California,980,1200
+Southern California Institute of Architecture,1180,1410
+University of Southern California,1410,1540
+Thomas Aquinas College,1180,1370
+Westmont College,1160,1460
+Whittier College,1120,1340
+Adams State University,920,1140
+University of Colorado Denver/Anschutz Medical  ,1030,1250
+University of Colorado Boulder,1170,1390
+Colorado School of Mines,1310,1470
+Colorado State University-Fort Collins,1080,1290
+University of Denver,1200,1390
+Fort Lewis College,970,1200
+Colorado Mesa University,948,1200
+Metropolitan State University of Denver,910,1140
+University of Northern Colorado,970,1210
+Regis University,1030,1270
+Colorado State University Pueblo,940,1130
+United States Air Force Academy,1208,1490
+Western Colorado University,1040,1230
+University of Bridgeport,950,1130
+Central Connecticut State University,950,1180
+Connecticut College,1333,1476
+University of Connecticut,1230,1430
+Fairfield University,1230,1380
+University of Hartford,1080,1270
+University of New Haven,1100,1280
+University of Saint Joseph,1036,1181
+Trinity College,1333,1480
+United States Coast Guard Academy,1200,1390
+Wesleyan University,1300,1510
+Yale University,1480,1580
+University of Delaware,1155,1340
+American University,1280,1440
+Gallaudet University,765,1158
+George Washington University,1310,1490
+Georgetown University,1410,1550
+Howard University,1080,1290
+The Baptist College of Florida,931,1055
+Bethune-Cookman University,820,990
+Lynn University,1030,1200
+Johnson University Florida,820,1010
+University of Central Florida,1170,1350
+Embry-Riddle Aeronautical University-Daytona Beach,1140,1330
+Florida Agricultural and Mechanical University,1010,1150
+Florida Atlantic University,1020,1200
+Flagler College,990,1180
+Florida College,900,1160
+Florida Institute of Technology,1140,1340
+Florida International University,1060,1240
+Florida Southern College,1160,1335
+Florida State University,1180,1340
+University of Florida,1300,1470
+Jacksonville University,1020,1250
+University of Miami,1300,1460
+University of North Florida,1000,1210
+Nova Southeastern University,1040,1310
+Palm Beach Atlantic University,1030,1240
+Saint Leo University,930,1150
+University of South Florida,1140,1330
+St. Thomas University,860,1060
+Stetson University,1090,1295
+Southeastern University,960,1183
+The University of Tampa,1070,1240
+Trinity Baptist College,866,1100
+Trinity College of Florida,860,1050
+Warner University,830,1070
+The University of West Florida,1040,1230
+Abraham Baldwin Agricultural College,940,1130
+Andrew College,920,1180
+Point University,890,1130
+Clark Atlanta University,860,1053
+Berry College,1120,1316
+Brenau University,1000,1130
+Brewton-Parker College,880,1010
+College of Coastal Georgia,805,1018
+Columbus State University,870,1130
+Covenant College,1070,1300
+Emmanuel College,980,1160
+Emory University,1420,1540
+Fort Valley State University,810,950
+Georgia Institute of Technology-Main  ,1310,1500
+Georgia Southwestern State University,990,1170
+Georgia College & State University,1070,1260
+Georgia Southern University,990,1200
+Georgia State University,1050,1290
+University of Georgia,1270,1450
+Gordon State College,900,1080
+Life University,890,1085
+Mercer University,1220,1400
+Oglethorpe University,1070,1280
+Piedmont University,1010,1220
+Shorter University,960,1190
+Thomas University,780,1240
+Toccoa Falls College,1000,1180
+Truett McConnell University,1070,1205
+Valdosta State University,940,1140
+Wesleyan College,1033,1210
+University of West Georgia,940,1130
+University of Hawaii at Hilo,1000,1210
+University of Hawaii at Manoa,1080,1290
+Hawaii Pacific University,1070,1238
+University of Hawaii-West Oahu,970,1220
+Boise Bible College,890,1200
+University of Idaho,990,1220
+The College of Idaho,1080,1246
+Northwest Nazarene University,970,1230
+Brigham Young University-Idaho,990,1200
+Aurora University,960,1130
+Blackburn College,888,1125
+Bradley University,1060,1280
+University of Chicago,1510,1580
+Eastern Illinois University,900,1140
+Elmhurst University,1013,1220
+Eureka College,870,1155
+Governors State University,830,1060
+Greenville University,900,1170
+University of Illinois at Chicago,1080,1310
+Benedictine University,1050,1280
+University of Illinois Urbana-Champaign,1320,1510
+Illinois Wesleyan University,1110,1310
+Illinois College,950,1150
+Illinois Institute of Technology,1230,1410
+Illinois State University,1000,1200
+Judson University,910,1140
+Knox College,1150,1380
+Lake Forest College,1130,1345
+Lewis University,1050,1240
+Lincoln College,710,800
+Loyola University Chicago,1160,1360
+Methodist College,800,1160
+Millikin University,960,1190
+Monmouth College,1080,1300
+North Central College,1030,1230
+North Park University,890,1162
+Northwestern University,1470,1570
+Olivet Nazarene University,970,1200
+Principia College,1028,1193
+Quincy University,1060,1240
+Rockford University,880,1120
+Roosevelt University,860,1120
+Dominican University,910,1160
+University of St Francis,920,1170
+University of Illinois Springfield,990,1250
+Southern Illinois University-Carbondale,930,1160
+Southern Illinois University-Edwardsville,920,1160
+Trinity Christian College,950,1220
+Trinity International University-Illinois,980,1120
+Wheaton College,1250,1430
+Anderson University,960,1160
+Ball State University,1010,1210
+Butler University,1150,1340
+DePauw University,1160,1420
+Earlham College,1100,1340
+University of Evansville,1050,1250
+Franklin College,960,1180
+Goshen College,990,1270
+Grace College and Theological Seminary,990,1220
+Hanover College,1110,1310
+Holy Cross College,1110,1320
+Huntington University,1010,1208
+Purdue University Fort Wayne,1000,1210
+Indiana University-Purdue University-Indianapolis,1040,1230
+University of Southern Indiana,1020,1230
+Indiana University-Kokomo,1000,1180
+Indiana University-South Bend,980,1190
+Indiana University at Bloomington,1160,1380
+Indiana University-Northwest,940,1140
+Indiana University-Southeast,980,1190
+Indiana University-East,1000,1220
+Indiana Wesleyan University-Marion,990,1200
+University of Notre Dame,1410,1550
+Oakland City University,960,1180
+Rose-Hulman Institute of Technology,1270,1480
+University of Saint Francis-Fort Wayne,960,1150
+Saint Mary-of-the-Woods College,975,1120
+Saint Mary's College,1055,1265
+Saint Elizabeth School of Nursing,860,1050
+Trine University,1030,1240
+Wabash College,1140,1340
+Buena Vista University,963,1140
+Central College,1000,1260
+Clarke University,900,1120
+Cornell College,1155,1405
+Dordt University,1050,1290
+Drake University,1190,1410
+Emmaus Bible College,1100,1240
+Faith Baptist Bible College and Theological Seminary,1020,1180
+Graceland University-Lamoni,880,1120
+Grand View University,920,1080
+Grinnell College,1370,1530
+Iowa State University,1083,1330
+Iowa Wesleyan University,820,1020
+University of Iowa,1130,1350
+Luther College,1088,1318
+University of Northern Iowa,980,1190
+Northwestern College,940,1240
+Saint Ambrose University,1030,1190
+Simpson College,890,1280
+Upper Iowa University,855,1065
+Wartburg College,973,1198
+William Penn University,830,1030
+Baker University,970,1130
+Benedictine College,1100,1350
+Bethany College,810,1015
+Bethel College-North Newton,990,1160
+Friends University,473,538
+University of Kansas,1090,1330
+MidAmerica Nazarene University,820,990
+Ottawa University-Ottawa,800,1160
+Southwestern College,920,1110
+Sterling College,996,1166
+Wichita State University,983,1220
+Alice Lloyd College,760,1140
+Bellarmine University,1110,1280
+Berea College,1118,1268
+Brescia University,920,1190
+Centre College,1235,1465
+University of the Cumberlands,940,1200
+Eastern Kentucky University,950,1180
+Kentucky Wesleyan College,920,1140
+University of Kentucky,1083,1330
+Kentucky Christian University,800,1030
+University of Louisville,1050,1270
+Midway University,940,1120
+Murray State University,960,1200
+Northern Kentucky University,983,1210
+The Southern Baptist Theological Seminary,1040,1250
+Spalding University,930,1100
+Transylvania University,1050,1330
+Union College,955,1148
+Centenary College of Louisiana,1020,1250
+Dillard University,960,1120
+Grambling State University,822,1040
+Louisiana State University-Alexandria,970,1210
+Louisiana State University and Agricultural & Mechanical College,1130,1320
+Louisiana State University-Shreveport,870,1070
+Louisiana College,940,1080
+Louisiana Tech University,1070,1280
+McNeese State University,990,1170
+University of New Orleans,1010,1280
+Nicholls State University,1038,1228
+University of Louisiana at Monroe,1060,1270
+Northwestern State University of Louisiana,920,1120
+Southern University and A & M College,840,1015
+University of Louisiana at Lafayette,1023,1198
+Tulane University of Louisiana,1360,1510
+Xavier University of Louisiana,990,1150
+Colby College,1400,1530
+University of Maine at Farmington,1060,1280
+Saint Joseph's College of Maine,1020,1230
+University of Southern Maine,995,1230
+University of Baltimore,955,1135
+Bowie State University,840,1020
+Coppin State University,780,1060
+Frostburg State University,980,1200
+Goucher College,1086,1360
+University of Maryland-Baltimore County,1220,1410
+University of Maryland at College Park,1330,1510
+Morgan State University,850,1090
+St. Mary's College of Maryland,1135,1340
+St. John's College,1290,1480
+Towson University,1040,1220
+United States Naval Academy,1200,1420
+American International College,940,1110
+Amherst College,1370,1550
+Babson College,1330,1480
+Bay Path University,1018,1205
+Bentley University,1240,1413
+Boston College,1420,1530
+Boston University,1360,1520
+Brandeis University,1370,1530
+Bridgewater State University,1010,1200
+Clark University,1218,1403
+Curry College,1083,1165
+Eastern Nazarene College,960,1315
+Emerson College,1200,1400
+Emmanuel College,1150,1280
+Fisher College,800,1070
+Fitchburg State University,980,1180
+Framingham State University,990,1175
+Gordon College,1153,1370
+Harvard University,1480,1580
+College of the Holy Cross,1240,1420
+Lasell University,1080,1325
+University of Massachusetts-Lowell,1170,1340
+University of Massachusetts at Amherst,1250,1460
+University of Massachusetts-Boston,1060,1280
+MCPHS University,1090,1390
+Mount Holyoke College,1300,1510
+Nichols College,970,1160
+Northeastern University,1430,1550
+College of Our Lady of the Elms,1050,1195
+Simmons University,1140,1360
+Smith College,1370,1530
+Springfield College,1110,1320
+University of Massachusetts-Dartmouth,1030,1260
+Suffolk University,1080,1280
+Tufts University,1440,1550
+Wellesley College,1400,1540
+Wentworth Institute of Technology,1140,1330
+Western New England University,1128,1280
+Westfield State University,980,1190
+Wheaton College (Massachusetts),1160,1360
+Worcester State University,1030,1193
+Adrian College,940,1150
+Andrews University,1050,1300
+Aquinas College,1000,1170
+Calvin University,1120,1340
+Central Michigan University,1010,1220
+Cleary University,950,1170
+University of Detroit Mercy,1060,1250
+Eastern Michigan University,930,1180
+Ferris State University,930,1150
+Kettering University,1140,1340
+Cornerstone University,970,1220
+Hillsdale College,1340,1510
+Hope College,1100,1330
+Kalamazoo College,1160,1380
+Lake Superior State University,950,1160
+Madonna University,890,1140
+Michigan State University,1100,1320
+Michigan Technological University,1130,1335
+University of Michigan at Ann Arbor,1350,1540
+University of Michigan-Flint,1015,1250
+Oakland University,970,1230
+Olivet College,910,1120
+Saginaw Valley State University,960,1170
+Wayne State University,1030,1260
+Western Michigan University,1000,1220
+Augsburg University,1188,1376
+Bethel University,1123,1343
+Carleton College,1408,1550
+Concordia College at Moorhead,1080,1218
+Martin Luther College,1080,1250
+Hamline University,1170,1280
+Macalester College,1340,1515
+University of Minnesota-Twin Cities,1310,1490
+University of Minnesota at Duluth,1160,1270
+Minnesota State University Moorhead,1040,1180
+College of Saint Benedict,1110,1220
+Saint Johns University,1085,1240
+St Olaf College,1240,1430
+The College of Saint Scholastica,1110,1310
+University of St Thomas,1120,1380
+St Catherine University,890,1210
+Winona State University,970,1280
+Alcorn State University,853,1073
+Belhaven University,980,1260
+Blue Mountain College,1040,1160
+Delta State University,950,1190
+Jackson State University,940,980
+Millsaps College,1135,1354
+University of Mississippi,1025,1225
+Mississippi University for Women,850,1180
+Mississippi State University,1030,1280
+Tougaloo College,790,1090
+William Carey University,980,1320
+Avila University,933,1160
+Calvary University,870,1370
+Central Methodist University-College of Liberal Arts and Sciences,908,1118
+Cottey College,1030,1120
+Culver-Stockton College,970,1080
+Drury University,1050,1270
+Hannibal-LaGrange University,1070,1317
+Lindenwood University,860,1210
+Maryville University of Saint Louis,1000,1230
+Missouri Baptist University,870,1110
+Missouri Southern State University,950,1170
+Missouri Valley College,750,1100
+University of Missouri-Columbia,1130,1350
+University of Missouri-Kansas City,1143,1506
+Missouri University of Science and Technology,1290,1460
+University of Missouri-St Louis,1020,1300
+Truman State University,1093,1290
+Northwest Missouri State University,953,1133
+College of the Ozarks,1010,1213
+Rockhurst University,1083,1288
+Saint Louis University,1220,1430
+University of Health Sciences and Pharmacy in St. Louis,1110,1240
+Southwest Baptist University,1000,1210
+Stephens College,1030,1170
+Missouri State University-Springfield,1010,1200
+Washington University in St Louis,1490,1570
+Webster University,1033,1250
+Westminster College,880,1160
+William Jewell College,1090,1270
+Carroll College,1100,1280
+University of Providence,1140,1280
+Montana Technological University,1090,1290
+Montana State University,1070,1300
+The University of Montana,1070,1280
+Rocky Mountain College,975,1180
+Concordia University-Nebraska,1000,1250
+Creighton University,1130,1370
+University of Nebraska at Kearney,938,1133
+Midland University,905,1150
+Nebraska Wesleyan University,1040,1290
+University of Nebraska-Lincoln,1090,1320
+Union College,980,1130
+York College,790,1160
+University of Nevada-Reno,1060,1270
+Sierra Nevada University,920,1200
+Dartmouth College,1440,1560
+University of New Hampshire-Main  ,1110,1300
+Keene State College,970,1170
+University of New Hampshire at Manchester,1110,1270
+Saint Anselm College,1140,1320
+Bloomfield College,817,1064
+Caldwell University,1000,1310
+Centenary University,990,1170
+Felician University,890,1140
+Georgian Court University,980,1175
+Rowan University,1070,1280
+New Jersey City University,890,1140
+Kean University,920,1120
+Monmouth University,1070,1250
+Montclair State University,1010,1210
+New Jersey Institute of Technology,1180,1430
+Princeton University,1460,1570
+Ramapo College of New Jersey,1100,1280
+Rider University,1050,1270
+Rutgers University-Camden,1040,1230
+Rutgers University-New Brunswick,1240,1470
+Rutgers University-Newark,1030,1270
+Saint Peter's University,970,1150
+Seton Hall University,1200,1370
+Stevens Institute of Technology,1370,1510
+Stockton University,1050,1250
+The College of New Jersey,1170,1350
+Eastern New Mexico University-Main  ,860,1100
+New Mexico Institute of Mining and Technology,1110,1320
+New Mexico State University-Main  ,920,1140
+Adelphi University,1080,1310
+Albany College of Pharmacy and Health Sciences,1170,1390
+Alfred University,1070,1300
+Barnard College,1425,1550
+Canisius College,1050,1250
+Cazenovia College,957,1177
+Clarkson University,1180,1380
+Colgate University,1350,1500
+Columbia University in the City of New York,1470,1570
+Cornell University,1450,1560
+D'Youville College,1030,1225
+Dominican College of Blauvelt,993,1123
+Fordham University,1300,1480
+Hamilton College,1410,1540
+Hartwick College,1000,1220
+Hilbert College,898,1113
+Hobart William Smith Colleges,1170,1370
+Hofstra University,1180,1370
+Houghton College,1080,1290
+Iona College,1060,1260
+Jewish Theological Seminary of America,1346,1488
+Keuka College,1008,1250
+Le Moyne College,1140,1290
+Long Island University,1100,1320
+Manhattanville College,1020,1230
+Marist College,1196,1360
+Marymount Manhattan College,1050,1253
+Mercy College,910,1190
+Molloy College,1110,1320
+Mount Saint Mary College,1000,1170
+College of Mount Saint Vincent,1000,1230
+New York University,1450,1570
+Niagara University,1050,1243
+New York Institute of Technology,1100,1320
+Nyack College,848,1093
+Pace University,1120,1310
+Pratt Institute-Main,1190,1410
+Rensselaer Polytechnic Institute,1360,1520
+Roberts Wesleyan College,1020,1250
+Rochester Institute of Technology,1270,1450
+University of Rochester,1370,1520
+St Bonaventure University,1070,1270
+St. Francis College,990,1240
+St Lawrence University,1220,1400
+St. Thomas Aquinas College,1035,1235
+Sarah Lawrence College,1260,1470
+Skidmore College,1270,1440
+St. Joseph's University-New York,1060,1250
+Saint John Fisher College,1110,1270
+St. John's University-New York,1100,1310
+SUNY College of Technology at Canton,1000,1160
+SUNY College of Agriculture and Technology at Cobleskill,970,1170
+Farmingdale State College,1010,1190
+SUNY at Albany,1090,1280
+Binghamton University,1310,1470
+University at Buffalo,1180,1360
+Stony Brook University,1300,1480
+SUNY Polytechnic Institute,1040,1400
+SUNY Brockport,1040,1230
+SUNY Buffalo State,930,1160
+SUNY Cortland,1090,1240
+SUNY at Fredonia,1090,1280
+SUNY College at Geneseo,1160,1320
+State University of New York at New Paltz,1150,1318
+SUNY College at Oswego,1060,1280
+SUNY at Purchase College,1120,1320
+SUNY College at Old Westbury,1070,1260
+SUNY College at Plattsburgh,1050,1240
+SUNY Maritime College,1100,1288
+Syracuse University,1220,1400
+Union College,1270,1450
+United States Merchant Marine Academy,1150,1330
+United States Military Academy,1200,1440
+Vassar College,1420,1540
+Villa Maria College,800,1110
+School of Visual Arts,1140,1363
+Webb Institute,1390,1510
+Appalachian State University,1130,1300
+Barton College,970,1150
+Belmont Abbey College,1028,1206
+Cabarrus College of Health Sciences,945,1145
+Campbell University,1030,1230
+Catawba College,990,1150
+Chowan University,875,1080
+Duke University,1468,1558
+Elizabeth City State University,860,1070
+Fayetteville State University,830,1040
+Gardner-Webb University,960,1215
+Guilford College,950,1200
+High Point University,1105,1300
+Lees-McRae College,1040,1240
+Livingstone College,810,988
+Meredith College,1098,1273
+Methodist University,1110,1230
+Montreat College,1030,1220
+University of Mount Olive,990,1150
+North Carolina A & T State University,990,1170
+University of North Carolina at Asheville,1130,1330
+University of North Carolina at Chapel Hill,1140,1380
+University of North Carolina at Charlotte,1120,1320
+University of North Carolina at Greensboro,1095,1260
+North Carolina Central University,930,1150
+University of North Carolina School of the Arts,1160,1380
+North Carolina State University at Raleigh,1270,1440
+North Carolina Wesleyan College,860,1120
+University of North Carolina Wilmington,1210,1330
+William Peace University,1078,1230
+University of North Carolina at Pembroke,890,1140
+Pfeiffer University,891,1165
+Queens University of Charlotte,1060,1238
+Mid-Atlantic Christian University,760,1160
+Salem College,1053,1200
+Winston-Salem State University,880,1040
+Western Carolina University,1060,1230
+Dickinson State University,923,1063
+University of Jamestown,900,1140
+Minot State University,990,1200
+University of North Dakota,1110,1290
+North Dakota State University-Main  ,1096,1313
+Valley City State University,935,1190
+Ashland University,1050,1250
+Baldwin Wallace University,1040,1250
+Bowling Green State University-Main  ,1020,1210
+Capital University,1000,1260
+Case Western Reserve University,1410,1530
+Cedarville University,1120,1350
+Central State University,770,950
+University of Cincinnati,1150,1350
+Cleveland Institute of Art,1040,1270
+Cleveland State University,900,1170
+University of Dayton,1130,1330
+Defiance College,860,1110
+Denison University,1230,1430
+The University of Findlay,1010,1213
+Heidelberg University,1030,1162
+John Carroll University,1120,1340
+Kent State University at Kent,1000,1210
+Kenyon College,1340,1500
+Lake Erie College,905,1130
+Malone University,993,1178
+Marietta College,950,1190
+Mercy College of Ohio,728,930
+Miami University-Oxford,1160,1370
+University of Mount Union,980,1180
+Mount Vernon Nazarene University,1020,1218
+Mount Saint Joseph University,1018,1193
+Notre Dame College,890,1100
+Oberlin College,1338,1460
+Ohio Northern University,1090,1300
+Ohio State University-Main  ,1250,1440
+Ohio University-Main  ,1070,1290
+Ohio Wesleyan University,1210,1390
+Otterbein University,1028,1233
+Franciscan University of Steubenville,1100,1310
+University of Toledo,1030,1280
+Ursuline College,1056,1155
+Walsh University,1035,1220
+Wilberforce University,780,1147
+Wilmington College,960,1150
+Wittenberg University,1010,1230
+The College of Wooster,1220,1430
+Wright State University-Main  ,945,1250
+Wright State University-Lake  ,790,890
+Xavier University,1090,1280
+Youngstown State University,930,1180
+Bacone College,938,1033
+Oklahoma Wesleyan University,880,1130
+East Central University,881,960
+Randall University,880,1060
+Northeastern State University,878,1085
+Northwestern Oklahoma State University,850,1090
+Oklahoma Christian University,1000,1220
+Oklahoma State University-Main  ,1050,1250
+Oklahoma Baptist University,980,1210
+Oklahoma City University,1040,1233
+University of Oklahoma-Norman  ,1150,1340
+Oral Roberts University,900,1210
+Southeastern Oklahoma State University,880,1080
+University of Tulsa,1070,1370
+George Fox University,1090,1350
+Lewis & Clark College,1240,1420
+Bushnell University,1140,1215
+Oregon Institute of Technology,1066,1300
+Oregon State University,1120,1370
+Pacific University,1090,1310
+Portland State University,1000,1250
+University of Portland,1165,1360
+Southern Oregon University,980,1230
+Corban University,1003,1165
+Bryn Athyn College of the New Church,975,1293
+Allegheny College,1140,1350
+DeSales University,1080,1260
+Arcadia University,1080,1280
+Bucknell University,1295,1450
+Cabrini University,998,1215
+California University of Pennsylvania,940,1150
+Carlow University,955,1140
+Carnegie Mellon University,1480,1560
+Cedar Crest College,1020,1210
+Chestnut Hill College,900,1090
+Delaware Valley University,1050,1250
+Drexel University,1210,1410
+Duquesne University,1140,1310
+East Stroudsburg University of Pennsylvania,960,1150
+Edinboro University of Pennsylvania,970,1170
+Elizabethtown College,1070,1280
+Gannon University,990,1250
+Gettysburg College,1280,1430
+Grove City College,1130,1382
+Gwynedd Mercy University,990,1200
+Haverford College,1420,1540
+Holy Family University,930,1220
+Immaculata University,1083,1230
+Indiana University of Pennsylvania-Main  ,940,1140
+Keystone College,920,1170
+Kutztown University of Pennsylvania,990,1200
+La Roche University,965,1160
+Lafayette College,1300,1460
+Lancaster Bible College,1010,1210
+Lebanon Valley College,1078,1290
+Lehigh University,1325,1490
+Lincoln University,890,1073
+Lock Haven University,980,1190
+Lycoming College,1080,1250
+Mansfield University of Pennsylvania,970,1150
+Marywood University,1020,1220
+Messiah University,1100,1340
+Millersville University of Pennsylvania,1000,1220
+Muhlenberg College,1200,1370
+Neumann University,905,1085
+University of Pennsylvania,1480,1570
+University of the Sciences,1090,1340
+University of Pittsburgh-Bradford,990,1180
+University of Pittsburgh-Greensburg,1030,1210
+University of Pittsburgh-Johnstown,1020,1230
+University of Pittsburgh-Pittsburgh  ,1250,1470
+University of Pittsburgh-Titusville,1020,1170
+Point Park University,950,1180
+Reading Hospital School of Health Sciences,957,1145
+Rosemont College,980,1200
+Saint Joseph's University,1120,1310
+Saint Vincent College,950,1213
+University of Scranton,1100,1280
+Shippensburg University of Pennsylvania,970,1180
+Slippery Rock University of Pennsylvania,970,1170
+Swarthmore College,1430,1560
+Thiel College,965,1165
+Thomas Jefferson University,1130,1320
+Ursinus College,1200,1360
+Villanova University,1350,1490
+Washington & Jefferson College,1050,1300
+West Chester University of Pennsylvania,1070,1250
+Westminster College,1040,1258
+Widener University,1080,1275
+Wilkes University,1040,1250
+Wilson College,960,1200
+York College of Pennsylvania,1028,1220
+Brown University,1460,1570
+Bryant University,1120,1300
+New England Institute of Technology,873,1232
+Providence College,1120,1330
+University of Rhode Island,1090,1290
+Rhode Island School of Design,1310,1480
+Charleston Southern University,990,1200
+Southern Wesleyan University,980,1168
+College of Charleston,1090,1280
+Clemson University,1220,1420
+Coker University,940,1160
+Columbia International University,940,1135
+Erskine College,920,1150
+Francis Marion University,930,1120
+Furman University,1240,1422
+Lander University,950,1150
+Newberry College,935,1155
+North Greenville University,980,1210
+Presbyterian College,1010,1220
+University of South Carolina Aiken,960,1170
+University of South Carolina-Columbia,1150,1360
+Coastal Carolina University,1030,1190
+South Carolina State University,800,1050
+University of South Carolina-Upstate,950,1150
+Winthrop University,1000,1195
+Wofford College,1185,1330
+Augustana University,1020,1300
+Black Hills State University,970,1150
+Dakota State University,1000,1245
+Dakota Wesleyan University,860,1100
+Mount Marty University,810,1050
+Northern State University,1020,1190
+Presentation College,850,1100
+South Dakota School of Mines and Technology,1155,1355
+South Dakota State University,980,1220
+University of South Dakota,1050,1290
+Belmont University,1150,1340
+Bethel University,875,1108
+Carson-Newman University,955,1135
+Christian Brothers University,1030,1280
+Lipscomb University,1100,1270
+Fisk University,1060,1360
+Freed-Hardeman University,985,1195
+John A Gupton College,890,960
+Johnson University,980,1185
+King University,1000,1160
+Le Moyne-Owen College,898,1093
+Lee University,1000,1230
+Lincoln Memorial University,993,1226
+The University of Tennessee Southern,971,1008
+Maryville College,1100,1320
+Middle Tennessee State University,1010,1210
+Rhodes College,1330,1490
+The University of the South,1200,1390
+Tennessee Wesleyan University,930,1180
+The University of Tennessee-Chattanooga,1030,1230
+The University of Tennessee-Knoxville,1170,1340
+The University of Tennessee-Martin,1010,1170
+Tusculum University,910,1110
+Union University,1120,1330
+Vanderbilt University,1480,1570
+Abilene Christian University,1050,1270
+Angelo State University,950,1160
+Austin College,1120,1340
+Baylor University,1160,1350
+Concordia University Texas,885,1150
+Texas A & M University-Corpus Christi,970,1180
+Dallas Baptist University,940,1200
+University of Dallas,1110,1390
+Texas A&M University-Texarkana,850,1150
+Texas A & M University-Commerce,930,1150
+Hardin-Simmons University,970,1170
+Houston Baptist University,1040,1250
+University of Houston-Clear Lake,978,1170
+University of Houston,1140,1330
+Huston-Tillotson University,820,1000
+University of the Incarnate Word,920,1160
+Lamar University,910,1100
+Texas A & M International University,910,1110
+LeTourneau University,1130,1370
+Lubbock Christian University,940,1186
+University of Mary Hardin-Baylor,970,1160
+McMurry University,1030,1230
+University of North Texas,1010,1240
+Our Lady of the Lake University,890,1070
+Prairie View A & M University,840,1050
+Rice University,1490,1570
+University of St Thomas,1040,1220
+Sam Houston State University,950,1120
+Schreiner University,970,1160
+Southern Methodist University,1340,1510
+Southwestern Assemblies of God University,900,1080
+Southwestern University,1150,1330
+Stephen F Austin State University,980,1160
+Texas State University,990,1180
+Southwestern Adventist University,900,1130
+Sul Ross State University,905,1050
+Tarleton State University,960,1140
+Texas A & M University-Kingsville,900,1120
+Texas A & M University-College Station,1140,1380
+The University of Texas at Arlington,1000,1220
+The University of Texas at Austin,1230,1500
+The University of Texas at Tyler,1040,1250
+Texas Christian University,1130,1350
+The University of Texas Permian Basin,920,1140
+The University of Texas at San Antonio,1020,1220
+Texas Southern University,820,1000
+Texas Tech University,1110,1280
+Texas Wesleyan University,920,1100
+Texas Woman's University,950,1160
+Trinity University,1280,1468
+West Texas A & M University,980,1188
+Brigham Young University,1220,1440
+Brigham Young University-Hawaii,1075,1260
+Southern Utah University,1030,1240
+Utah State University,1080,1310
+University of Utah,1180,1390
+Westminster College,1150,1350
+Castleton University,958,1158
+Middlebury College,1380,1530
+University of Vermont,1240,1410
+Averett University,910,1155
+Bridgewater College,1065,1250
+William & Mary,1360,1520
+Regent University,960,1230
+Christopher Newport University,1110,1320
+Eastern Mennonite University,1040,1590
+Ferrum College,920,1180
+George Mason University,1140,1350
+Hampden-Sydney College,1080,1260
+James Madison University,1140,1310
+Longwood University,1030,1170
+University of Mary Washington,1130,1320
+Norfolk State University,860,1083
+Old Dominion University,1020,1220
+Radford University,950,1150
+Randolph College,910,1140
+Roanoke College,1080,1230
+Southern Virginia University,1018,1226
+Sweet Briar College,1020,1260
+University of Virginia's College at Wise,990,1230
+Virginia Polytechnic Institute and State University,1210,1410
+Virginia Commonwealth University,1070,1300
+University of Virginia-Main  ,1380,1500
+Virginia Military Institute,1080,1300
+Virginia State University,830,1040
+Virginia Union University,756,893
+Virginia Wesleyan University,1150,1380
+Washington and Lee University,1410,1530
+The Evergreen State College,1000,1200
+Gonzaga University,1210,1380
+Northwest University,985,1210
+Pacific Lutheran University,1150,1376
+University of Puget Sound,1150,1370
+Saint Martin's University,995,1225
+Seattle Pacific University,1050,1300
+Seattle University,1120,1330
+Western Washington University,1090,1310
+Whitman College,1295,1455
+Whitworth University,1070,1280
+Alderson Broaddus University,900,1110
+Appalachian Bible College,1035,1190
+Bethany College,870,1110
+Bluefield State College,880,1110
+Concord University,890,1130
+Fairmont State University,900,1090
+Marshall University,930,1150
+Shepherd University,960,1180
+West Liberty University,890,1175
+West Virginia University Institute of Technology,920,1130
+West Virginia Wesleyan College,968,1180
+West Virginia University,1030,1230
+Wheeling University,950,1180
+Beloit College,1200,1390
+Cardinal Stritch University,1010,1220
+Carroll University,1070,1290
+Carthage College,980,1200
+Lawrence University,1230,1460
+Maranatha Baptist University,930,1230
+Marian University,800,1080
+Marquette University,1180,1360
+Milwaukee School of Engineering,1160,1405
+Mount Mary University,866,1123
+Northland College,1010,1160
+Ripon College,940,1160
+Saint Norbert College,1100,1280
+Viterbo University,920,1290
+Wisconsin Lutheran College,1010,1170
+University of Wisconsin at Madison,1320,1500
+University of Puerto Rico-Aguadilla,868,1078
+University of Puerto Rico-Carolina,822,1057
+University of Puerto Rico-Cayey,905,1131
+University of the Virgin Islands,830,1030
+Stanford University,1470,1570
+Purdue University at West Lafayette,1190,1430
+St. John's College,1280,1470
+New College of Florida,1120,1340
+Worsham College of Mortuary Science,1000,1090
+Soka University of America,1205,1400
+Carolinas College of Health Sciences,920,1110
+Florida Gulf Coast University,1010,1180
+University of Connecticut-Waterbury  ,1010,1230
+University of Connecticut-Avery Point,1035,1260
+University of Connecticut-Stamford,1040,1260
+The King's University,870,1130
+Oregon State University-Cascades  ,1105,1340
+Franklin W Olin College of Engineering,1490,1580
+DigiPen Institute of Technology,1178,1390
+Georgia Gwinnett College,940,1170
+Visible Music College,605,1250
+Patrick Henry College,1170,1408
+The King's College,1140,1390
+Compass College of Film and Media,850,1160
+Texas A&M University-San Antonio,925,1136
+John Paul the Great Catholic University,1068,1288
+University of Connecticut-Hartford  ,1020,1210
+Ottawa University-Surprise,860,1090
+Criswell College,1090,1150
+Colorado State University-Global  ,495,595
+Florida Institute of Technology-Online,955,1140
+Augusta University,1080,1300
+Middle Georgia State University,943,1160
+University of North Georgia,1040,1223
+Florida Polytechnic University,1183,1370
+University of Florida-Online,1230,1370
+University of North Texas at Dallas,860,1020
+American College of the Building Arts,1030,1210
+Kennesaw State University,1050,1250
+Milligan University,1005,1180
+Emory University-Oxford College,1420,1540
+Purdue University Northwest,990,1190
+Southwestern Baptist Theological Seminary,1000,1240
+The Pennsylvania State University,1140,1360
+University of California at Berkeley,1300,1530
+University of California at Irvine,1180,1440
