@@ -25,5 +25,4 @@ pip install -r requirements.txt
 Run the `cli.py` file in the source directory.
 
 
-<br>
 <img src = "./yourcollege.gif">
