@@ -6,7 +6,7 @@ from sklearn.cluster import KMeans
 # Trains model with provided weights. Default weights are set to 1 each.
 # Returns pandas dataframe of the colleges with clusters
 def train(weights=[1 for i in range(0,10)]):
-    data = pd.read_csv('data/FINALDATA.csv')
+    data = pd.read_csv('../data/FINALDATA.csv')
     
     drop_cols = ['SAT25', 'SAT75', 'Top25perc','Top25perc','Outstate', 'Room.Board', 'Books',
         'Personal','PhD', 'Terminal', 'S.F.Ratio', 'perc.alumni','rank', 'state_name', 'early_career_pay', 'mid_career_pay',
@@ -34,23 +34,24 @@ def train(weights=[1 for i in range(0,10)]):
     features = ['Private', 'F.Undergrad', 'Expend', 'stem_percent', 'Women',
        'acceptance_rate', 'top10', 'grad_rate', 'diversity_score', 'SAT%']
     
-    for i in len(features):
+    colleges.to_csv('../predictions/college_recs.csv', index=False)
+   
+    for i in range(0,10):
         colleges[features[i]] = weights[i] * colleges[features[i]]
-    
-    colleges.to_csv('predictions/college_recs.csv', index=False)
-        
+         
     scaler = MinMaxScaler(feature_range=(0,1))
     colleges[['F.Undergrad','Expend']] = scaler.fit_transform(colleges[['F.Undergrad','Expend']])
     
     kmeans = KMeans(n_clusters=40, init='k-means++', random_state=42)
     kmeans.fit(colleges.drop(['NAME'], axis=1))
+    colleges['kmeans_cluster'] = kmeans.labels_  
         
     return colleges
 
 # Takes dataframe of colleges and name of college as arguments and returns a dataframe of similar colleges
 # Returns pandas dataframe of similar colleges
 def find_colleges(colleges, name):
-    data = pd.read_csv('predictions/college_recs.csv')
+    data = pd.read_csv('../predictions/college_recs.csv')
     cluster = colleges.loc[colleges['NAME'] == name]['kmeans_cluster']
     output = colleges.loc[colleges['kmeans_cluster'] == cluster]
     [i] = colleges.loc[colleges['NAME'] == name].index
