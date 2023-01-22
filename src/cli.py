@@ -28,7 +28,7 @@ def askPreference():
 
 def askUniversity(): 
     return prompt([
-        {"type": "input", "message": f'Enter your dream university:'}
+        {"type": "input", "message": f'Enter your dream college:'}
     ])
 
 
@@ -43,7 +43,7 @@ def learnMore(options_list):
 
 def askContinue(): 
     return prompt([
-        {"type": "confirm", "message": f'Do you wanna continue?'}
+        {"type": "confirm", "message": f'Do you want to know more?'}
     ])
 
 @click.command
@@ -55,21 +55,21 @@ def main():
     print(pyfiglet.figlet_format("YourCollege CLI", font = "slant" ))
 
     console = Console()
-    console.print("Hello there everyone!", style="bold red")
-    console.print("This is a CLI application which uses certain preferences \nto help you find colleges similar to the your dream college. \n\n", style="cyan")
-    
-    table = Table(title="List of Features")
-    table.add_column("Feature List", justify="left", style="cyan", no_wrap=True)
-    feature_list = ["Type of University (Private or Public)",
-            "Total undergrad enrollment",
+    console.print("Hello there!", style="bold red")
+    console.print("This is a CLI-based application which uses qualitative and quantitative preferences\nto help you find colleges similar to your dream college.\nJust let me know how strongly you prefer certain college features\nand I'll do the rest for you!\n", style="sea_green1")
+    console.print("Using [u]Unsupervised Weighted K-Means Clustering[/u],\nI will group all colleges with similar features into clusters\nand provide you their details.\n", style="cyan")
+    table = Table()
+    table.add_column("[u]List of Features[/u]", justify="left", style="sea_green1", no_wrap=True)
+    feature_list = ["Type of College (Private or Public)",
+            "Total Undergraduate Enrollment",
             "College Expenditure per Student",
-            "Percent of student body in STEM",
-            "Women",
+            "Percent of Student body in STEM",
+            "Female Census in the College",
             "Acceptance Rate",
             "Percentage of incoming students in Top 10% of HS",
             "Graduation Rate",
-            "Diversity",
-            "SAT Score"]
+            "Diversity Index",
+            "Average SAT Score"]
     for feature in feature_list: 
         table.add_row(feature)
     console.print(table)
@@ -79,30 +79,26 @@ def main():
     feature_weights = []
 
     if askPreference()[0]: 
-        console.print("\n--Evaluate the following features out of 1-9--", style="bold red")
+        console.print("\n--Evaluate the following features out of 1(lowest) - 9(highest)--", style="bold red")
         ranked_features = askInputInfo(feature_list)
-
-        # print(ranked_features)
         
         for key in ranked_features.keys():
             feature_weights += [int(ranked_features[key])]
         
-
-        print(feature_weights)
-
-        table2 = Table()
-        table2.add_column("Feature List", justify="left", style="cyan", no_wrap=True)
-        table2.add_column("Weights", justify="left", style="cyan", no_wrap=True)
+        print()
+        table2 = Table(title="Your Preferences")
+        table2.add_column("Feature List", justify="left", style="sea_green1", no_wrap=True)
+        table2.add_column("Weights", justify="left", style="sea_green1", no_wrap=True)
         
-        print(type(feature_weights[0]))
         for i in range(len(feature_list)): 
             table2.add_row(feature_list[i], str(feature_weights[i]))
 
-        print(feature_weights)
         console.print(table2)
+        check = prompt([
+            {"type":"confirm", "message": "Shall we continue?"}
+        ])
 
 
-    # Trained college list
     data = []
     feature_weights = []
     if feature_weights == []: 
@@ -111,14 +107,16 @@ def main():
         data = kmeans.train(feature_weights)
     names = data.iloc[:,0].values.tolist()
 
-    print(data)
+    
 
-    table3 = Table(title="List of Universities") 
-    table3.add_column("Names", justify="left", style="cyan", no_wrap=True)
-    table3.add_column("Names", justify="left", style="cyan", no_wrap=True)
-    table3.add_column("Names", justify="left", style="cyan", no_wrap=True)
-    table3.add_column("Names", justify="left", style="cyan", no_wrap=True)
 
+    table3 = Table(title="List of Colleges") 
+    table3.add_column("Names", justify="left", style="sea_green1", no_wrap=False)
+    table3.add_column("Names", justify="left", style="sea_green1", no_wrap=False)
+    table3.add_column("Names", justify="left", style="sea_green1", no_wrap=False)
+    table3.add_column("Names", justify="left", style="sea_green1", no_wrap=False)
+    table3.add_column("Names", justify="left", style="sea_green1", no_wrap=False)
+    
     names1 = names[0:64]
     names2 = names[65:128]
     names3 = names[129:193]
@@ -130,14 +128,14 @@ def main():
 
     console.print(table3)
 
-    console.print("\n--FINALLY--", style="bold red")
+    console.print("\n--FINAL STEP--", style="bold red")
     university_name = askUniversity()[0]
     
     similar_colleges = kmeans.find_colleges(data, university_name)
 
     print()
     table4 = Table(title="List of Similar Colleges")
-    table4.add_column("Names", justify="left", style="cyan", no_wrap=True)
+    table4.add_column("Names", justify="left", style="sea_green1", no_wrap=True)
     
 
     for i in range(similar_colleges.shape[0]): 
@@ -150,8 +148,8 @@ def main():
         name = learnMore(similar_colleges.iloc[:,0].values.tolist())[0]
         find_more = similar_colleges.loc[similar_colleges['NAME'] == name]
         table5 = Table(title="Information")
-        table5.add_column('Feature', justify="left", style="cyan", no_wrap=True)
-        table5.add_column(f'{name}', justify="left", style="cyan", no_wrap=True)
+        table5.add_column('Feature', justify="left", style="sea_green1", no_wrap=True)
+        table5.add_column(f'{name}', justify="left", style="sea_green1", no_wrap=True)
 
         table5.add_row("Total Number of Undergrads:", str(find_more.iloc[0]["F.Undergrad"]))
         priv_or_pub = "Private"
@@ -161,10 +159,12 @@ def main():
         table5.add_row("Average SAT Score:", str(round(find_more.iloc[0]["SAT%"]*1600)))
         table5.add_row("Percent of students in STEM:", str(math.trunc(find_more.iloc[0]["stem_percent"]*100))+"%")
         table5.add_row("Acceptance Rate:", str(math.trunc(find_more.iloc[0]["acceptance_rate"]*100))+"%")
-        table5.add_row("Acceptance Rate:", str(math.trunc(find_more.iloc[0]["grad_rate"]*100))+"%")
+        table5.add_row("Graduation Rate:", str(math.trunc(find_more.iloc[0]["grad_rate"]*100))+"%")
 
         console.print(table5)
 
-    console.print("\n-------------------------------- \nThanks for using me <3", style="bold red")
+    console.print("----------------------\nThank you for using me <3", style="bold red")
+    
+    
 if __name__ == "__main__": 
     main() 
