@@ -52,7 +52,7 @@ def train(weights=[1 for i in range(0,10)]):
 # Returns pandas dataframe of similar colleges
 def find_colleges(colleges, name):
     data = pd.read_csv('../predictions/college_recs.csv')
-    cluster = colleges.loc[colleges['NAME'] == name]['kmeans_cluster']
+    cluster = colleges.loc[colleges['NAME'] == name,['kmeans_cluster']].iloc[0][0]
     output = colleges.loc[colleges['kmeans_cluster'] == cluster]
     [i] = colleges.loc[colleges['NAME'] == name].index
     output = output.drop(axis=0, index=i)
