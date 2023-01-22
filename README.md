@@ -1,4 +1,7 @@
-# YourCollege CLI
+# Boilermake 2023 - YourCollege CLI
+<h3><i>Group Members: - Akhil Sagaran Kasturi, Vamsi Raman Deeduvanu, Akshath Raghav Ravikiran, Akshitha Kartigueyan</i></h3>
+
+<br>
 <img src="./boilermake-1.jpg" alt="Alt text" title="Optional title">
 
 
