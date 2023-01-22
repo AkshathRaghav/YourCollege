@@ -1,6 +1,7 @@
 # YourCollege CLI
 <img src="./boilermake-1.jpg" alt="Alt text" title="Optional title">
 
+
 ## What is it?
 This is a CLI college recommender application that takes into consideration a users preferences about a college (both quantitative and qualitative aspects are considered) before suggesting a list of closely related colleges for you. 
 
@@ -19,3 +20,7 @@ To execute the CLI application, ensure you have pip package manager installed. T
 pip install -r requirements.txt
 ```
 Run the `cli.py` file in the source directory.
+
+
+<br>
+<img src = "./yourcollege.gif">
