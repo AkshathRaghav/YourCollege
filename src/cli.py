@@ -100,7 +100,6 @@ def main():
 
 
     data = []
-    feature_weights = []
     if feature_weights == []: 
         data = kmeans.train([1,1,1,1,1,1,1,1,1,1])
     else: 
